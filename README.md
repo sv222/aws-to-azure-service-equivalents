@@ -28,9 +28,10 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **Databases**           | Amazon Redshift                        | Azure Synapse Analytics                   | Data warehousing and analytics.                                                                |
 | **Databases**           | Amazon ElastiCache                     | Azure Cache for Redis                     | Managed in-memory caching services.                                                            |
 | **Networking**          | Amazon VPC                             | Azure Virtual Network (VNet)              | Private virtual networks for secure resource communication.                                    |
-| **Networking**          | Subnet                                 | Subnet                                    | Subdivisions within a VPC/VNet for organizing resources.                                       |
+| **Networking**          | Subnet                                 | Subnet                                    | Subdivisions within a VPC/VNet for organizing resources.
 | **Networking**          | Internet Gateway                       | Internet Gateway                          | Connects cloud networks to the internet.                                                       |
 | **Networking**          | NAT Gateway                            | NAT Gateway                               | Enables outbound internet traffic for private subnets.                                         |
+| **Networking**          | AWS API Gateway                        | Azure API Management                      | Managed service to create, publish, maintain, monitor and secure APIs.                                         |
 | **Networking**          | Elastic Load Balancing                 | Azure Load Balancer                       | Automatic distribution of traffic across resources.                                            |
 | **Networking**          | Amazon Route 53                        | Azure DNS                                 | Domain Name System management.                                                                 |
 | **Networking**          | AWS Direct Connect                     | Azure ExpressRoute                        | Private connections between on-premises and cloud environments.                                |
