@@ -72,6 +72,7 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **Networking**          | AWS Global Accelerator                 | Azure Front Door/Azure Traffic Manager    | Improves application performance using global edge networks.                                   |
 | **Management**          | AWS Systems Manager Parameter Store    | Azure Automation Variables                | Centralized storage of configuration parameters.                                               |
 | **Monitoring & Logging**| AWS CloudWatch Logs                    | Azure Monitor Logs                        | Centralized log monitoring and analysis.                                                       |
+| **Time Series Database**| AWS Timstream                    | Azure Data Explorer                        | Time Series Data Logging.                                                       |
 
 ## Contributing to This Repository
 
