@@ -40,7 +40,7 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **Networking**          | Route Table                            | Route Table                               | Determines how traffic is routed within a network.                                             |
 | **Networking**          | Security Groups                        | Network Security Groups (NSGs)            | Controls inbound and outbound traffic to resources.                                            |
 | **Identity & Access**   | IAM Role                               | Managed Identity                          | Provides secure access to resources without hardcoding credentials.                            |
-| **Identity & Access**   | IAM Policy                             | Azure Role-Based Access Control           | Policies that define access permissions for Azure resources.                                   |
+| **Identity & Access**   | IAM Policy                             | Azure RBAC role definitions               | Define permissions for Azure resources (role assignments grant them to users and identities).                                   |
 | **Identity & Access**   | AWS Organizations                      | Azure Management Groups                   | Centralized management of multiple accounts or subscriptions.                                  |
 | **Identity & Access**   | SAML Federation                        | Microsoft Entra ID federation             | Single sign-on using external identity providers.                                              |
 | **Monitoring & Logging**| Amazon CloudWatch                      | Azure Monitor                             | Cloud monitoring and observability.                                                            |
@@ -54,7 +54,7 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **Analytics**           | Amazon Athena                          | Azure Synapse Serverless SQL Pools        | Querying data stored in object storage.                                                        |
 | **Analytics**           | Amazon Kinesis                         | Azure Event Hubs                          | Real-time data streaming.                                                                      |
 | **DevOps & Management** | AWS CodePipeline                       | Azure DevOps Pipelines/GitHub Actions     | Continuous integration and delivery (CI/CD) pipelines.                                         |
-| **DevOps & Management** | AWS CloudFormation                     | Azure Resource Manager (ARM)              | Infrastructure-as-Code (IaC) for managing cloud resources.                                      |
+| **DevOps & Management** | AWS CloudFormation                     | ARM Templates / Bicep                     | Infrastructure-as-Code (IaC) for managing cloud resources.                                      |
 | **Security**            | AWS KMS                                | Azure Key Vault                           | Managed encryption key services.                                                               |
 | **Security**            | AWS Secrets Manager                    | Azure Key Vault Secrets                   | Secure storage for sensitive data like passwords and keys.                                     |
 | **Security**            | AWS Shield                             | Azure DDoS Protection                     | Managed protection against distributed denial-of-service (DDoS) attacks.                       |
@@ -68,9 +68,9 @@ This resource is invaluable for cloud professionals working across AWS and Azure
 | **IoT**                | AWS Greengrass                         | Azure IoT Edge                            | Local IoT processing and analysis.                                                             |
 | **Blockchain**         | Amazon QLDB                            | Azure Confidential Ledger                 | Tamperproof, cryptographically verifiable ledgers (Azure Blockchain Service was retired in 2021).                                 |
 | **Media Services**     | AWS Elemental MediaConvert              | Partner encoders (Bitmovin, MediaKind, Ravnur) | Video encoding and streaming; Azure Media Services was retired on June 30, 2024.                                                         |
-| **Developer Tools**    | AWS Cloud9                              | Visual Studio Code (Cloud)                | Cloud-based integrated development environments (IDEs).                                         |
+| **Developer Tools**    | AWS Cloud9                              | GitHub Codespaces / VS Code for the Web   | Cloud-based integrated development environments (IDEs).                                         |
 | **Networking**          | AWS Global Accelerator                 | Azure Front Door/Azure Traffic Manager    | Improves application performance using global edge networks.                                   |
-| **Management**          | AWS Systems Manager Parameter Store    | Azure Automation Variables                | Centralized storage of configuration parameters.                                               |
+| **Management**          | AWS Systems Manager Parameter Store    | Azure App Configuration                   | Centralized storage of configuration parameters (secrets belong in Azure Key Vault).                                               |
 | **Monitoring & Logging**| AWS CloudWatch Logs                    | Azure Monitor Logs                        | Centralized log monitoring and analysis.                                                       |
 
 ## Contributing to This Repository
