@@ -1,0 +1,8 @@
+# Cloud consoles that require sign-in and reject automated requests.
+^https://portal\.azure\.com
+^https://console\.aws\.amazon\.com
+
+# Social sites that block automated requests.
+^https://www\.linkedin\.com
+^https://twitter\.com
+^https://x\.com
