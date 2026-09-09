@@ -149,7 +149,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **Migration** | AWS Migration Hub | Azure Migrate | Centralized migration planning and execution tools. |
-| **Migration** | AWS Application Migration Service (MGN) | Azure Migrate | Lift-and-shift migration of on-premises workloads (AWS SMS was discontinued in 2022; MGN is now AWS Transform MGN). |
+| **Migration** | AWS Transform MGN (formerly AWS Application Migration Service) | Azure Migrate | Lift-and-shift migration of on-premises workloads (AWS SMS was discontinued in 2022). |
 | **Migration** | AWS Snowball | Azure Data Box | Data transfer appliances for large-scale migrations. |
 
 ## IoT
