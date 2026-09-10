@@ -128,7 +128,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **Machine Learning** | Amazon SageMaker | Azure Machine Learning | Managed machine learning service. |
-| **Machine Learning** | AWS Rekognition | Azure AI Vision (Azure AI Services) | Pre-trained computer vision models (part of Azure AI Services, formerly Cognitive Services). |
+| **Machine Learning** | AWS Rekognition | Azure Vision in Foundry Tools | Pre-trained computer vision models (part of Foundry Tools, formerly Azure AI Services and Cognitive Services). |
 
 ## DevOps & Management
 
