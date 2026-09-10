@@ -129,6 +129,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Machine Learning** | Amazon SageMaker | Azure Machine Learning | Managed machine learning service. |
 | **Machine Learning** | AWS Rekognition | Azure Vision in Foundry Tools | Pre-trained computer vision models (part of Foundry Tools, formerly Azure AI Services and Cognitive Services). |
+| **Machine Learning** | Amazon Bedrock | Microsoft Foundry Models | Managed access to foundation models from multiple providers, including Azure OpenAI models in Microsoft Foundry. |
 
 ## DevOps & Management
 
