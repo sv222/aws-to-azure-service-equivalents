@@ -150,7 +150,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Migration** | AWS Migration Hub | Azure Migrate | Centralized migration planning and execution tools. AWS Migration Hub closed to new customers on November 7, 2025; AWS directs new users to AWS Transform. |
 | **Migration** | AWS Transform MGN (formerly AWS Application Migration Service) | Azure Migrate | Lift-and-shift migration of on-premises workloads (AWS SMS was discontinued in 2022). |
-| **Migration** | AWS Snowball | Azure Data Box | Data transfer appliances for large-scale migrations. |
+| **Migration** | AWS Snowball | Azure Data Box | Data transfer appliances for large-scale migrations. Snowball Edge closed to new customers on November 7, 2025. |
 
 ## IoT
 
