@@ -64,6 +64,8 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Storage** | Snowball Edge | Azure Data Box | Physical devices for large-scale data transfer. Closed to new customers on November 7, 2025. |
 | **Storage** | Amazon EFS | Azure Files | Serverless, elastic NFS file storage for Linux clients; Azure Files also supports SMB. |
 | **Storage** | Amazon FSx for NetApp ONTAP | Azure NetApp Files | Fully managed file storage built on NetApp ONTAP. |
+| **Storage** | AWS Backup | Azure Backup | Centralized, policy-based backup service across AWS services. |
+| **Storage** | AWS Elastic Disaster Recovery | Azure Site Recovery | Disaster recovery service that replicates servers to AWS for failover and failback. |
 
 ## Databases
 
