@@ -76,6 +76,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Databases** | Amazon DynamoDB | Azure Cosmos DB | Fully managed NoSQL database service. |
 | **Databases** | Amazon Redshift | Azure Synapse Analytics | Data warehousing and analytics. |
 | **Databases** | Amazon ElastiCache | Azure Managed Redis | Managed in-memory caching services (Azure Cache for Redis Basic, Standard, and Premium tiers retire on September 30, 2028). |
+| **Databases** | Amazon DocumentDB | Azure Cosmos DB for MongoDB | Fully managed, MongoDB-compatible document database service; verify API feature support, which differs between the two. |
 
 ## Networking
 
