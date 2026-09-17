@@ -119,6 +119,10 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Identity & Access** | IAM Policy | Azure RBAC role definitions | Define permissions for Azure resources (role assignments grant them to users and identities). |
 | **Identity & Access** | AWS Organizations | Azure Management Groups | Centralized management of multiple accounts or subscriptions. |
 | **Identity & Access** | SAML Federation | Microsoft Entra ID federation | Single sign-on using external identity providers. |
+| **Identity & Access** | Amazon Cognito | Microsoft Entra External ID | Customer identity and sign-up and sign-in for applications; Azure AD B2C closed to new customers on May 1, 2025. |
+| **Identity & Access** | AWS IAM Identity Center | Microsoft Entra ID | Single sign-on for workforce users to cloud and SaaS applications. |
+| **Identity & Access** | AWS Directory Service | Microsoft Entra Domain Services | Managed Active Directory domain services, including domain join, Group Policy, LDAP, and Kerberos/NTLM authentication. |
+| **Identity & Access** | AWS Control Tower | Azure landing zones | Architecture guidance and deployment accelerators for a governed, multi-subscription environment; Azure landing zones are not a single managed service. |
 
 ## Security
 
