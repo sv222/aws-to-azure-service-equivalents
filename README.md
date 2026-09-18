@@ -14,6 +14,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 - [Databases](#databases)
 - [Time Series Database](#time-series-database)
 - [Networking](#networking)
+- [Integration & Messaging](#integration--messaging)
 - [Identity & Access](#identity--access)
 - [Security](#security)
 - [Monitoring & Logging](#monitoring--logging)
@@ -110,6 +111,17 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Networking** | AWS Transit Gateway | Azure Virtual WAN | Hub that interconnects virtual networks, on-premises sites, and VPN connections; Virtual WAN uses Microsoft-managed hubs with different routing behavior. |
 | **Networking** | AWS Network Firewall | Azure Firewall | Managed, stateful network firewall service that protects virtual network resources. |
 | **Networking** | AWS Client VPN | VPN Gateway (point-to-site) | Managed VPN that connects individual client devices to a virtual network. |
+
+## Integration & Messaging
+
+| **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
+|---|---|---|---|
+| **Integration & Messaging** | Amazon SQS | Azure Service Bus | Managed message queues that decouple application components. |
+| **Integration & Messaging** | Amazon SNS | Azure Service Bus topics | Publish-subscribe messaging that fans out messages to multiple subscribers. |
+| **Integration & Messaging** | Amazon EventBridge | Azure Event Grid | Event routing that delivers events from publishers to subscribers and handlers. |
+| **Integration & Messaging** | AWS Step Functions | Azure Logic Apps | Workflow orchestration that coordinates steps and services through triggers and actions. |
+| **Integration & Messaging** | Amazon MQ | Azure Service Bus | Managed Apache ActiveMQ and RabbitMQ message brokers; Azure Service Bus is a different broker, so migration requires client changes. |
+| **Integration & Messaging** | Amazon SES | Azure Communication Services Email | Managed email sending for transactional and bulk email from custom domains. |
 
 ## Identity & Access
 
