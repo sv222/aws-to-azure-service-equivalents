@@ -157,6 +157,9 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Analytics** | AWS Glue Data Catalog | Microsoft Purview | Metadata management and governance for data assets. |
 | **Analytics** | Amazon Athena | Azure Synapse Serverless SQL Pools | Querying data stored in object storage. |
 | **Analytics** | Amazon Kinesis | Azure Event Hubs | Real-time data streaming. |
+| **Analytics** | Amazon MSK | Azure Event Hubs for Apache Kafka | Managed Apache Kafka-compatible streaming through an Event Hubs Kafka endpoint, without running Kafka brokers. |
+| **Analytics** | Amazon Data Firehose | Azure Event Hubs Capture | Continuously delivers streaming data to Blob Storage or Data Lake Storage; a feature of Azure Event Hubs. |
+| **Analytics** | Amazon Managed Service for Apache Flink | Azure Stream Analytics | Real-time stream processing with a SQL-based query language; Flink applications written against the DataStream API need rewriting. |
 
 ## Machine Learning
 
