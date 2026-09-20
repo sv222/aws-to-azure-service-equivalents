@@ -1,6 +1,6 @@
-# AWS to Azure Service Equivalents: Cloud Service Comparison Matrix
+# AWS to Azure Service Equivalents
 
-This side-by-side AWS to Azure service mapping compares Amazon Web Services and Microsoft Azure services and entities for engineers doing multi-cloud design, cloud migration, and hybrid architecture. It covers compute, storage, databases, networking, identity, security, monitoring, analytics, AI/ML, containers, IoT, DevOps, and more, with the closest Azure equivalent and a short description for each AWS service or entity.
+The tables map AWS services to their closest Azure equivalents. Each row gives the Azure equivalent and a short note on the AWS service, including partial matches and retirement dates.
 
 ## How to use this reference
 
