@@ -12,9 +12,9 @@ The README has one H2 section per category. Each section holds a single table wi
 
 ## Row rules
 
-- Use one service per row. Do not combine several services in one cell.
+- Use one main service per row. Alternatives in one cell are allowed when both fit, written as "A / B" or "A or B". Do not list unrelated services in one cell.
 - Use official, current product names from AWS or Microsoft documentation.
-- Write the description as one sentence that ends with a period.
+- Keep the description short. One sentence is best. Add a short note when needed, such as a retirement date or a partial match. End with a period.
 - If a product was retired or renamed, state the change and its date in the description, for example "Retired on December 31, 2022."
 - Add a row only when you can verify both sides against official AWS or Microsoft documentation.
 - Do not add links that you have not checked.
@@ -30,8 +30,7 @@ The README has one H2 section per category. Each section holds a single table wi
 
 Use Conventional Commits for one-line subjects, at 72 characters or fewer. Common types for this repository are:
 
-- `docs:` for table content changes, such as `docs: rename Azure Data Factory row to current name`
-- `fix:` for corrections to an existing row
+- `docs:` for all table and text changes, including new rows, renames, and corrections, such as `docs: rename Azure Data Factory row to current name`
 - `ci:` for changes to workflows under `.github/`
 
 ## Link checks
