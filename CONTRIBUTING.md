@@ -10,6 +10,8 @@ The README has one H2 section per category. Each section holds a single table wi
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 ```
 
+A pull request that adds a section must also add it to the Table of Contents in `README.md`.
+
 ## Row rules
 
 - Use one main service per row. Alternatives in one cell are allowed when both fit, written as "A / B" or "A or B". Do not list unrelated services in one cell.
