@@ -27,6 +27,7 @@ A pull request that adds a section must also add it to the Table of Contents in 
 - Open an issue to report an error, retire a row, or suggest a service you are unsure about.
 - Open a pull request for a change you can document. Link the official sources in the pull request description.
 - Keep pull requests small. Each one should address one concern, such as a single renamed product or a single new category row. Split unrelated edits into separate pull requests.
+- A pull request that re-verifies existing rows should update the "Last reviewed" month in the "How to use this reference" section of `README.md`.
 
 ## Commit messages
 
