@@ -48,7 +48,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **Containers** | Amazon ECS | Azure Container Apps | Managed container orchestration service. |
-| **Containers** | AWS Fargate | Azure Container Instances (ACI) | Serverless containers. |
+| **Containers** | AWS Fargate | Azure Container Instances (ACI) / Azure Container Apps | Serverless compute for containers that run Amazon ECS tasks and Amazon EKS pods. |
 | **Containers** | Amazon EKS | Azure Kubernetes Service (AKS) | Managed Kubernetes service. |
 | **Containers** | Amazon EKS Auto Mode | AKS Automatic | Kubernetes cluster mode that automates node, compute, storage, and networking management. |
 | **Containers** | Amazon ECR | Azure Container Registry | Managed private registry for storing and deploying container images. |
