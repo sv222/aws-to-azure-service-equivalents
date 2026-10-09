@@ -38,7 +38,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Compute** | AWS Elastic Beanstalk | Azure App Service | Deploys and scales web applications without managing the underlying infrastructure. |
 | **Compute** | AWS Auto Scaling | Azure Virtual Machine Scale Sets | Automatic scaling of virtual machines. |
 | **Compute** | AWS Batch | Azure Batch | Managed batch processing at scale. |
-| **Compute** | Spot Instance | Spot VM | Access to unused compute capacity at lower cost. |
+| **Compute** | Spot Instance | Azure Spot Virtual Machines | Access to unused compute capacity at lower cost. |
 | **Compute** | Elastic IP | Static Public IP Address | Allocates fixed IP addresses for dynamic workloads. |
 | **Compute** | Instance Metadata Service | Azure Instance Metadata Service | Provides metadata about VM instances. |
 | **Compute** | AWS Outposts | Azure Local | Fully managed AWS infrastructure for on-premises workloads; Azure Local (formerly Azure Stack HCI) is hybrid infrastructure enabled by Azure Arc. |
