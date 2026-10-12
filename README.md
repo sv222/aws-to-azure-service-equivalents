@@ -201,7 +201,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **DevOps & Management** | AWS Cost Explorer | Microsoft Cost Management | Cost analysis, budgets, and alerts for reviewing and optimizing cloud spending. |
 | **DevOps & Management** | AWS Trusted Advisor | Azure Advisor | Personalized recommendations for cost, performance, security, reliability, and operational excellence. |
 | **DevOps & Management** | AWS Health Dashboard | Azure Service Health | Notifications about service issues and planned maintenance that affect your resources. |
-| **DevOps & Management** | AWS Service Catalog | Azure Managed Applications | Internal catalog of approved solutions that users deploy; Azure Managed Applications packages solutions for an internal service catalog. |
+| **DevOps & Management** | AWS Service Catalog | Azure Managed Applications | Catalog of approved solutions that users deploy; Azure Managed Applications provides the equivalent service catalog for internal use. |
 
 ## Developer Tools
 
