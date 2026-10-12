@@ -222,7 +222,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **IoT** | AWS IoT Core | Azure IoT Hub | Managed IoT device communication. |
-| **IoT** | AWS Greengrass | Azure IoT Edge | Local IoT processing and analysis. |
+| **IoT** | AWS IoT Greengrass | Azure IoT Edge | Local IoT processing and analysis. |
 | **IoT** | AWS IoT Device Defender | Microsoft Defender for IoT | Security audits and threat detection for IoT and OT devices and networks. |
 
 ## Blockchain
