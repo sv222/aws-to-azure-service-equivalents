@@ -167,7 +167,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Analytics** | Amazon EMR | Azure HDInsight | Managed big data frameworks. HDInsight 4.0 retired on March 31, 2025; Microsoft directs new big-data workloads to Azure Databricks or Microsoft Fabric. |
 | **Analytics** | AWS Glue | Azure Data Factory / Fabric Data Factory | Managed ETL (Extract, Transform, Load) services. Microsoft describes Data Factory in Fabric as the next generation of Azure Data Factory. |
 | **Analytics** | AWS Glue Data Catalog | Microsoft Purview | Metadata management and governance for data assets. |
-| **Analytics** | Amazon Athena | Azure Synapse Serverless SQL Pools | Querying data stored in object storage. |
+| **Analytics** | Amazon Athena | Fabric Lakehouse SQL analytics endpoint / Azure Databricks SQL | Serverless SQL queries over data in object storage. Azure options differ in storage, metadata, and billing. |
 | **Analytics** | Amazon Kinesis Data Streams | Azure Event Hubs | Real-time data streaming. |
 | **Analytics** | Amazon MSK | Azure Event Hubs for Apache Kafka | Managed Apache Kafka-compatible streaming through an Event Hubs Kafka endpoint, without running Kafka brokers. |
 | **Analytics** | Amazon Data Firehose | Azure Event Hubs Capture | Continuously delivers streaming data to Blob Storage or Data Lake Storage; a feature of Azure Event Hubs. |
