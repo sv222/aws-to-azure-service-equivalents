@@ -160,6 +160,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Monitoring & Logging** | AWS X-Ray | Azure Application Insights | Distributed tracing for applications. |
 | **Monitoring & Logging** | Amazon CloudWatch Logs | Azure Monitor Logs | Centralized log monitoring and analysis. |
 | **Monitoring & Logging** | Amazon Managed Grafana | Azure Managed Grafana | Managed Grafana service for dashboards over monitoring data. |
+| **Monitoring & Logging** | Amazon Managed Service for Prometheus | Azure Monitor managed service for Prometheus | Fully managed, Prometheus-compatible metrics monitoring. |
 
 ## Analytics
 
