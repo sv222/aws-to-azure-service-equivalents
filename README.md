@@ -94,7 +94,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Networking** | Amazon VPC | Azure Virtual Network (VNet) | Private virtual networks for secure resource communication. |
 | **Networking** | Subnet | Subnet | Subdivisions within a VPC/VNet for organizing resources. |
-| **Networking** | Internet Gateway | No direct equivalent (public IP gives access) | Connects a VPC to the internet; in Azure, VMs reach the internet by default when assigned a public IP. |
+| **Networking** | Internet Gateway | No direct equivalent | Connects a VPC to the internet. Azure has no gateway resource; outbound access needs an explicit method, such as a public IP on the network interface, NAT Gateway, or load balancer outbound rules, because subnets in new virtual networks are private by default. |
 | **Networking** | NAT Gateway | NAT Gateway | Enables outbound internet traffic for private subnets. |
 | **Networking** | Elastic Load Balancing | Azure Load Balancer (L4) / Application Gateway (L7) | Automatic distribution of traffic across resources. |
 | **Networking** | Amazon Route 53 | Azure DNS / Azure Traffic Manager | DNS management and traffic routing. |
