@@ -104,7 +104,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Networking** | VPN Connection | VPN Gateway | Encrypted connections between on-premises and cloud networks. |
 | **Networking** | Route Table | Route Table | Determines how traffic is routed within a network. |
 | **Networking** | Security Groups | Network Security Groups (NSGs) | Controls inbound and outbound traffic to resources. |
-| **Networking** | AWS Global Accelerator | Azure Front Door / Azure Traffic Manager | Improves application performance using global edge networks. |
+| **Networking** | AWS Global Accelerator | Azure Front Door / Azure Traffic Manager | Static anycast IP addresses that route TCP and UDP traffic through the AWS edge network; Front Door covers HTTP(S) only and Traffic Manager is DNS-based, so this is a partial match. |
 | **Networking** | Amazon API Gateway | Azure API Management | Managed service to create, publish, maintain, monitor, and secure APIs. |
 | **Networking** | Amazon CloudFront | Azure Front Door | Global content delivery network and application delivery service. |
 | **Networking** | AWS WAF | Azure Web Application Firewall | Protects web applications from common exploits and bot traffic; Azure WAF runs on Azure Front Door or Application Gateway. |
