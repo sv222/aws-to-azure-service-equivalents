@@ -74,7 +74,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **Databases** | Amazon RDS | Azure SQL Database / Azure Database for PostgreSQL, MySQL | Managed relational database services (AWS RDS supports several engines). |
-| **Databases** | Amazon Aurora | Azure Database for PostgreSQL / MySQL | High-performance relational databases. |
+| **Databases** | Amazon Aurora | Azure Database for PostgreSQL / MySQL | MySQL- and PostgreSQL-compatible relational database with a cloud-native storage layer; the Azure services run the community engines, not Aurora's storage design. |
 | **Databases** | Amazon DynamoDB | Azure Cosmos DB | Fully managed NoSQL database service. |
 | **Databases** | Amazon Redshift | Azure Synapse Analytics or Microsoft Fabric Warehouse | Data warehousing and analytics. |
 | **Databases** | Amazon ElastiCache | Azure Managed Redis | Managed in-memory cache for Redis OSS, Valkey, or Memcached; Azure Managed Redis covers Redis only. Azure Cache for Redis Basic, Standard, and Premium tiers retire on September 30, 2028, and Enterprise and Enterprise Flash tiers retire on March 31, 2027. |
