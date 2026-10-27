@@ -111,6 +111,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Networking** | AWS Transit Gateway | Azure Virtual WAN | Hub that interconnects virtual networks, on-premises sites, and VPN connections; Virtual WAN hubs are Microsoft-managed, so you control less of the routing and BGP configuration than with Transit Gateway route tables. |
 | **Networking** | AWS Network Firewall | Azure Firewall | Managed, stateful network firewall service that protects virtual network resources. |
 | **Networking** | AWS Client VPN | VPN Gateway (point-to-site) | Managed VPN that connects individual client devices to a virtual network. |
+| **Networking** | Amazon EC2 Instance Connect Endpoint | Azure Bastion | Connects to instances on private IP addresses without a bastion host or direct internet connectivity; Azure Bastion is a managed bastion host deployed in its own subnet. |
 
 ## Integration & Messaging
 
