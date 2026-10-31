@@ -130,7 +130,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Identity & Access** | IAM Role | Managed Identity | Entra identity for Azure resources that gets tokens without stored credentials. |
 | **Identity & Access** | IAM Policy | Azure RBAC role definitions | Define permissions for Azure resources (role assignments grant them to users and identities). |
-| **Identity & Access** | AWS Organizations | Azure Management Groups | Centralized management of multiple accounts or subscriptions. |
+| **Identity & Access** | AWS Organizations | Azure Management Groups | Hierarchy that groups subscriptions and applies Azure Policy and role assignments across them; Azure has no direct equivalent of the AWS management account. |
 | **Identity & Access** | SAML Federation | Microsoft Entra ID federation | Single sign-on using external identity providers. |
 | **Identity & Access** | Amazon Cognito | Microsoft Entra External ID | Customer identity and sign-up and sign-in for applications; Azure AD B2C closed to new customers on May 1, 2025. |
 | **Identity & Access** | AWS IAM Identity Center | Microsoft Entra ID | Single sign-on for workforce users to cloud and SaaS applications. |
