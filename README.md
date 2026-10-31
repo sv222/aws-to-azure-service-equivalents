@@ -121,7 +121,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Integration & Messaging** | Amazon SNS | Azure Service Bus topics / Azure Event Grid | Publish-subscribe fan-out to multiple subscribers; Service Bus topics suit durable messages, and Event Grid suits event notifications. |
 | **Integration & Messaging** | Amazon EventBridge | Azure Event Grid | Event routing that delivers events from publishers to subscribers and handlers. |
 | **Integration & Messaging** | AWS Step Functions | Azure Logic Apps | Workflow orchestration that coordinates steps and services through triggers and actions. |
-| **Integration & Messaging** | Amazon MQ | Azure Service Bus | Managed Apache ActiveMQ and RabbitMQ message brokers; Azure Service Bus is a different broker, so migration requires client changes. |
+| **Integration & Messaging** | Amazon MQ | Azure Service Bus | Managed Apache ActiveMQ and RabbitMQ message brokers; Azure Service Bus is a different broker with limited JMS support, so migration usually requires client changes. |
 | **Integration & Messaging** | Amazon SES | Azure Communication Services Email | Managed email sending for transactional and bulk email from custom domains. |
 
 ## Identity & Access
