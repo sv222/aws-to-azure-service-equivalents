@@ -144,7 +144,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Security** | AWS KMS | Azure Key Vault | Managed encryption key services. |
 | **Security** | AWS Secrets Manager | Azure Key Vault Secrets | Secure storage for sensitive data like passwords and keys. |
-| **Security** | AWS Shield | Azure DDoS Protection | Managed protection against distributed denial-of-service (DDoS) attacks. |
+| **Security** | AWS Shield | Azure DDoS Protection | Managed DDoS protection; the free infrastructure tier is comparable to Shield Standard, and the paid tiers add features comparable to Shield Advanced. |
 | **Security** | AWS Security Hub | Microsoft Defender for Cloud | Unified security management and threat protection. |
 | **Security** | Amazon GuardDuty | Microsoft Defender for Cloud | Threat detection for cloud accounts and workloads; Defender for Cloud also provides security posture management. |
 | **Security** | Amazon Inspector | Microsoft Defender Vulnerability Management | Continuous vulnerability discovery, assessment, and risk-based prioritization. |
