@@ -147,7 +147,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Security** | AWS Shield | Azure DDoS Protection | Managed DDoS protection; the free infrastructure tier is comparable to Shield Standard, and the paid tiers add features comparable to Shield Advanced. |
 | **Security** | AWS Security Hub CSPM | Microsoft Defender for Cloud | Aggregates security findings and checks accounts against security standards. |
 | **Security** | Amazon GuardDuty | Microsoft Sentinel / Microsoft Defender for Cloud | Threat detection for cloud accounts and workloads; Sentinel provides SIEM-based investigation, and Defender for Cloud provides workload threat protection. |
-| **Security** | Amazon Inspector | Microsoft Defender Vulnerability Management | Continuous vulnerability discovery, assessment, and risk-based prioritization. |
+| **Security** | Amazon Inspector | Microsoft Defender for Cloud | Automated assessment of workloads for vulnerabilities and deviations from best practices. |
 | **Security** | Amazon Macie | Microsoft Purview | Discovers and classifies sensitive data; Purview covers a wider data estate than Macie's Amazon S3 scope. |
 | **Security** | AWS Certificate Manager | Azure Key Vault certificates | Stores and manages X.509 certificates with lifetime alerts; public TLS certificates come from partner certificate authorities. |
 | **Security** | AWS CloudHSM | Azure Cloud HSM | Single-tenant, FIPS 140-3 Level 3 validated hardware security modules that customers administer. |
