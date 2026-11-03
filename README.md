@@ -149,7 +149,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Security** | Amazon GuardDuty | Microsoft Sentinel / Microsoft Defender for Cloud | Threat detection for cloud accounts and workloads; Sentinel provides SIEM-based investigation, and Defender for Cloud provides workload threat protection. |
 | **Security** | Amazon Inspector | Microsoft Defender for Cloud | Automated assessment of workloads for vulnerabilities and deviations from best practices. |
 | **Security** | Amazon Macie | Microsoft Purview | Discovers and classifies sensitive data; Purview covers a wider data estate than Macie's Amazon S3 scope. |
-| **Security** | AWS Certificate Manager | Azure Key Vault certificates | Stores and manages X.509 certificates with lifetime alerts; public TLS certificates come from partner certificate authorities. |
+| **Security** | AWS Certificate Manager | Azure Key Vault certificates | Stores and manages X.509 certificates; integrated DigiCert and GlobalSign CAs support auto-renewal and expiry notifications. |
 | **Security** | AWS CloudHSM | Azure Cloud HSM | Single-tenant, FIPS 140-3 Level 3 validated hardware security modules that customers administer. |
 | **Security** | Amazon Security Lake | Microsoft Sentinel data lake | Security data lake that centralizes security telemetry in an open format for analytics. |
 
