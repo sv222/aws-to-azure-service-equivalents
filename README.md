@@ -234,7 +234,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
-| **Media Services** | AWS Elemental MediaConvert | Partner encoders (Bitmovin, MediaKind, Ravnur) | Video encoding and streaming; Azure Media Services was retired on June 30, 2024. |
+| **Media Services** | AWS Elemental MediaConvert | Partner services (Bitmovin, MediaKind, Ravnur) | Video encoding and streaming; Azure Media Services retired on June 30, 2024, and Microsoft's retirement guide lists these partners as replacements. |
 
 ## Contributing
 
