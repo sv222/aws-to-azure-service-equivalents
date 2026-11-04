@@ -197,7 +197,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **DevOps & Management** | AWS CodeBuild | Azure Pipelines | Managed build service that compiles code, runs tests, and produces artifacts. |
 | **DevOps & Management** | AWS CodeCommit | Azure Repos | Hosted Git repositories with pull requests and code review. |
 | **DevOps & Management** | AWS CodeArtifact | Azure Artifacts | Managed package feeds that store and share packages for npm, NuGet, Maven, Python, and other package types. |
-| **DevOps & Management** | AWS Config | Azure Policy | Evaluates resource configurations against rules to audit compliance and enforce organizational standards. |
+| **DevOps & Management** | AWS Config | Azure Policy | Evaluates resource configurations against rules to audit compliance and enforce organizational standards; partial match, as AWS Config also records configuration history, which Azure Resource Graph keeps for 14 days. |
 | **DevOps & Management** | AWS Cost Explorer | Microsoft Cost Management | Cost analysis, budgets, and alerts for reviewing and optimizing cloud spending. |
 | **DevOps & Management** | AWS Trusted Advisor | Azure Advisor | Personalized recommendations for cost, performance, security, reliability, and operational excellence. |
 | **DevOps & Management** | AWS Health Dashboard | Azure Service Health | Notifications about service issues and planned maintenance that affect your resources. |
