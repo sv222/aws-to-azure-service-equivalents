@@ -104,6 +104,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Networking** | Route Table | Route Table | Determines how traffic is routed within a network. |
 | **Networking** | Security Groups | Network Security Groups (NSGs) | Controls inbound and outbound traffic to resources. |
 | **Networking** | AWS Global Accelerator | Azure Front Door / Azure Traffic Manager | Improves application performance using global edge networks. |
+| **Networking** | Amazon API Gateway | Azure API Management | Managed service to create, publish, maintain, monitor, and secure APIs. |
 
 ## Identity & Access
 
