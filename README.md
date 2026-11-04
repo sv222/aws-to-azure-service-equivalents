@@ -52,7 +52,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Containers** | Amazon EKS | Azure Kubernetes Service (AKS) | Managed Kubernetes service. |
 | **Containers** | Amazon EKS Auto Mode | AKS Automatic | Kubernetes cluster mode that automates node, compute, storage, and networking management. |
 | **Containers** | Amazon ECR | Azure Container Registry | Managed private registry for storing and deploying container images. |
-| **Containers** | AWS App Runner | Azure Container Apps | Fully managed service for containerized web applications and APIs; closed to new customers on April 30, 2026. |
+| **Containers** | AWS App Runner | Azure App Service / Azure Container Apps | Fully managed service for containerized web applications and APIs; closed to new customers on April 30, 2026. |
 
 ## Storage
 
