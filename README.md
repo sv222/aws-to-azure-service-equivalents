@@ -190,7 +190,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Machine Learning** | Amazon Translate | Azure Translator in Foundry Tools | Neural machine translation service for text and documents. |
 | **Machine Learning** | Amazon Transcribe | Azure Speech in Foundry Tools | Automatic speech recognition service that converts audio to text. |
 | **Machine Learning** | Amazon Polly | Azure Speech in Foundry Tools | Text-to-speech service that synthesizes speech from text. |
-| **Machine Learning** | Amazon Kendra | Azure AI Search | Intelligent enterprise search service. Kendra is in maintenance mode and closed to new customers since July 30, 2026. |
+| **Machine Learning** | Amazon Kendra | Azure AI Search | Intelligent enterprise search service. Kendra is in maintenance mode and closed to new customers since July 30, 2026. Azure AI Search is the closest functional match, not a feature-for-feature one; Microsoft does not list a Kendra mapping, and AWS suggests Amazon Bedrock Knowledge Bases instead. |
 
 ## DevOps & Management
 
