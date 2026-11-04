@@ -159,6 +159,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Monitoring & Logging** | AWS CloudTrail | Azure Activity Log | Tracking and auditing cloud resource activity. Covers management-plane operations only; data-plane logs need diagnostic settings. |
 | **Monitoring & Logging** | AWS X-Ray | Azure Application Insights | Distributed tracing for applications. |
 | **Monitoring & Logging** | Amazon CloudWatch Logs | Azure Monitor Logs | Centralized log monitoring and analysis. |
+| **Monitoring & Logging** | Amazon Managed Grafana | Azure Managed Grafana | Managed Grafana service for dashboards over monitoring data. |
 
 ## Analytics
 
