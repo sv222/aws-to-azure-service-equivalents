@@ -78,7 +78,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Databases** | Amazon DynamoDB | Azure Cosmos DB | Fully managed NoSQL database service. |
 | **Databases** | Amazon Redshift | Azure Synapse Analytics or Microsoft Fabric Warehouse | Data warehousing and analytics. |
 | **Databases** | Amazon ElastiCache | Azure Managed Redis | Managed in-memory cache for Redis OSS, Valkey, or Memcached; Azure Managed Redis covers Redis only. Azure Cache for Redis Basic, Standard, and Premium tiers retire on September 30, 2028, and Enterprise and Enterprise Flash tiers retire on March 31, 2027. |
-| **Databases** | Amazon DocumentDB | Azure Cosmos DB for MongoDB | Fully managed, MongoDB-compatible document database service; verify API feature support, which differs between the two. |
+| **Databases** | Amazon DocumentDB | Azure DocumentDB / Azure Cosmos DB for MongoDB | Fully managed, MongoDB-compatible document database service. Azure DocumentDB is the vCore-based service formerly named Azure Cosmos DB for MongoDB (vCore); verify API feature support, which differs between the services. |
 | **Databases** | Amazon Keyspaces | Azure Cosmos DB for Apache Cassandra | Serverless, managed database with a CQL API compatible with Apache Cassandra; Azure Managed Instance for Apache Cassandra runs open-source Cassandra clusters. |
 | **Databases** | Amazon MemoryDB | Azure Managed Redis | Durable, in-memory database compatible with Valkey and Redis OSS; confirm persistence requirements against Azure Managed Redis documentation. |
 
