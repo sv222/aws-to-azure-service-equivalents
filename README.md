@@ -105,6 +105,11 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Networking** | Security Groups | Network Security Groups (NSGs) | Controls inbound and outbound traffic to resources. |
 | **Networking** | AWS Global Accelerator | Azure Front Door / Azure Traffic Manager | Improves application performance using global edge networks. |
 | **Networking** | Amazon API Gateway | Azure API Management | Managed service to create, publish, maintain, monitor, and secure APIs. |
+| **Networking** | Amazon CloudFront | Azure Front Door | Global content delivery network and application delivery service. |
+| **Networking** | AWS WAF | Azure Web Application Firewall | Protects web applications from common exploits and bot traffic; Azure WAF runs on Azure Front Door or Application Gateway. |
+| **Networking** | AWS Transit Gateway | Azure Virtual WAN | Hub that interconnects virtual networks, on-premises sites, and VPN connections; Virtual WAN uses Microsoft-managed hubs with different routing behavior. |
+| **Networking** | AWS Network Firewall | Azure Firewall | Managed, stateful network firewall service that protects virtual network resources. |
+| **Networking** | AWS Client VPN | VPN Gateway (point-to-site) | Managed VPN that connects individual client devices to a virtual network. |
 
 ## Identity & Access
 
