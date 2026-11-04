@@ -118,7 +118,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
 | **Analytics** | Amazon EMR | Azure HDInsight | Managed big data frameworks. HDInsight 4.0 retired on March 31, 2025; Microsoft directs new big-data workloads to Azure Databricks or Microsoft Fabric. |
-| **Analytics** | AWS Glue | Azure Data Factory | Managed ETL (Extract, Transform, Load) services. |
+| **Analytics** | AWS Glue | Azure Data Factory | Managed ETL (Extract, Transform, Load) services. Azure Data Factory remains supported, and Microsoft positions Fabric Data Factory as the next generation for new projects. |
 | **Analytics** | AWS Glue Data Catalog | Microsoft Purview | Metadata management and governance for data assets. |
 | **Analytics** | Amazon Athena | Azure Synapse Serverless SQL Pools | Querying data stored in object storage. |
 | **Analytics** | Amazon Kinesis | Azure Event Hubs | Real-time data streaming. |
