@@ -77,6 +77,8 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Databases** | Amazon Redshift | Azure Synapse Analytics | Data warehousing and analytics. |
 | **Databases** | Amazon ElastiCache | Azure Managed Redis | Managed in-memory caching services (Azure Cache for Redis Basic, Standard, and Premium tiers retire on September 30, 2028). |
 | **Databases** | Amazon DocumentDB | Azure Cosmos DB for MongoDB | Fully managed, MongoDB-compatible document database service; verify API feature support, which differs between the two. |
+| **Databases** | Amazon Keyspaces | Azure Cosmos DB for Apache Cassandra | Serverless, managed database with a CQL API compatible with Apache Cassandra; Azure Managed Instance for Apache Cassandra runs open-source Cassandra clusters. |
+| **Databases** | Amazon MemoryDB | Azure Managed Redis | Durable, in-memory database compatible with Valkey and Redis OSS; confirm persistence requirements against Azure Managed Redis documentation. |
 
 ## Networking
 
