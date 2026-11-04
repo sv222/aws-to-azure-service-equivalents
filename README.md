@@ -12,6 +12,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 - [Containers](#containers)
 - [Storage](#storage)
 - [Databases](#databases)
+- [Time Series Database](#time-series-database)
 - [Networking](#networking)
 - [Identity & Access](#identity--access)
 - [Security](#security)
@@ -79,6 +80,12 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Databases** | Amazon DocumentDB | Azure Cosmos DB for MongoDB | Fully managed, MongoDB-compatible document database service; verify API feature support, which differs between the two. |
 | **Databases** | Amazon Keyspaces | Azure Cosmos DB for Apache Cassandra | Serverless, managed database with a CQL API compatible with Apache Cassandra; Azure Managed Instance for Apache Cassandra runs open-source Cassandra clusters. |
 | **Databases** | Amazon MemoryDB | Azure Managed Redis | Durable, in-memory database compatible with Valkey and Redis OSS; confirm persistence requirements against Azure Managed Redis documentation. |
+
+## Time Series Database
+
+| **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
+|---|---|---|---|
+| **Time Series Database** | Amazon Timestream | Azure Data Explorer | Time series database service; Timestream for LiveAnalytics closed to new customers on June 20, 2025, while Timestream for InfluxDB remains available, and Azure Data Explorer is a close analog for time series analytics, not a drop-in replacement. |
 
 ## Networking
 
