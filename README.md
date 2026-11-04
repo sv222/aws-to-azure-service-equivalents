@@ -66,7 +66,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Databases** | Amazon Aurora | Azure Database for PostgreSQL / MySQL | High-performance relational databases. |
 | **Databases** | Amazon DynamoDB | Azure Cosmos DB | Fully managed NoSQL database service. |
 | **Databases** | Amazon Redshift | Azure Synapse Analytics | Data warehousing and analytics. |
-| **Databases** | Amazon ElastiCache | Azure Cache for Redis | Managed in-memory caching services. |
+| **Databases** | Amazon ElastiCache | Azure Managed Redis | Managed in-memory caching services. |
 
 ## Networking
 
