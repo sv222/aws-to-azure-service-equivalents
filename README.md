@@ -222,7 +222,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **IoT** | AWS IoT Core | Azure IoT Hub | Managed IoT device communication. |
 | **IoT** | AWS IoT Greengrass | Azure IoT Edge | Local IoT processing and analysis. |
-| **IoT** | AWS IoT Device Defender | Microsoft Defender for IoT | Security audits and threat detection for IoT and OT devices and networks. |
+| **IoT** | AWS IoT Device Defender | Microsoft Defender for IoT | Security audits of device configurations and anomaly detection for device fleets; Detect is no longer available to new customers from August 31, 2026. Defender for IoT is a partial match, as it monitors IoT and OT networks. |
 
 ## Blockchain
 
