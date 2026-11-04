@@ -86,7 +86,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
-| **Time Series Database** | Amazon Timestream | Azure Data Explorer | Time series database service; Timestream for LiveAnalytics closed to new customers on June 20, 2025, while Timestream for InfluxDB remains available, and Azure Data Explorer is a close analog for time series analytics, not a drop-in replacement. |
+| **Time Series Database** | Amazon Timestream | Azure Data Explorer | Time series database service. Timestream for LiveAnalytics closed to new customers on June 20, 2025, and AWS suggests Timestream for InfluxDB as the alternative; Azure Data Explorer is an analytics analog, not a drop-in replacement. |
 
 ## Networking
 
