@@ -158,7 +158,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Monitoring & Logging** | Amazon CloudWatch | Azure Monitor | Cloud monitoring and observability. |
 | **Monitoring & Logging** | AWS CloudTrail | Azure Activity Log | Tracking and auditing cloud resource activity. |
 | **Monitoring & Logging** | AWS X-Ray | Azure Application Insights | Distributed tracing for applications. |
-| **Monitoring & Logging** | AWS CloudWatch Logs | Azure Monitor Logs | Centralized log monitoring and analysis. |
+| **Monitoring & Logging** | Amazon CloudWatch Logs | Azure Monitor Logs | Centralized log monitoring and analysis. |
 
 ## Analytics
 
