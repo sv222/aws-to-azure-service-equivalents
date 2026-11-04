@@ -163,7 +163,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
-| **Blockchain** | Amazon QLDB | Azure Confidential Ledger | Tamperproof, cryptographically verifiable ledgers (Azure Blockchain Service was retired in 2021). |
+| **Blockchain** | Amazon QLDB | Azure Confidential Ledger | Tamperproof, cryptographically verifiable ledgers. Amazon QLDB reached end of support on July 31, 2025 (Azure Blockchain Service was retired in 2021). |
 
 ## Media Services
 
