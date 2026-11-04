@@ -35,7 +35,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 |---|---|---|---|
 | **Compute** | Amazon EC2 | Azure Virtual Machines | Virtual servers for general compute. |
 | **Compute** | AWS Lambda | Azure Functions | Serverless computing to run code without provisioning servers. |
-| **Compute** | AWS Elastic Beanstalk | Azure App Service | Platform-as-a-Service (PaaS) for web applications and APIs. |
+| **Compute** | AWS Elastic Beanstalk | Azure App Service | Deploys and scales web applications without managing the underlying infrastructure. |
 | **Compute** | AWS Auto Scaling | Azure Virtual Machine Scale Sets | Automatic scaling of virtual machines. |
 | **Compute** | AWS Batch | Azure Batch | Managed batch processing at scale. |
 | **Compute** | Spot Instance | Spot VM | Access to unused compute capacity at lower cost. |
