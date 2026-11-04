@@ -131,6 +131,10 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Machine Learning** | AWS Rekognition | Azure Vision in Foundry Tools | Pre-trained computer vision models (part of Foundry Tools, formerly Azure AI Services and Cognitive Services). |
 | **Machine Learning** | Amazon Bedrock | Microsoft Foundry Models | Managed access to foundation models from multiple providers, including Azure OpenAI models in Microsoft Foundry. |
 | **Machine Learning** | Amazon Textract | Azure Document Intelligence in Foundry Tools | Extracts text and structured data from scanned documents and images. |
+| **Machine Learning** | Amazon Comprehend | Azure Language in Foundry Tools | Natural language processing for entity, key phrase, sentiment, and language detection. |
+| **Machine Learning** | Amazon Translate | Azure Translator in Foundry Tools | Neural machine translation service for text and documents. |
+| **Machine Learning** | Amazon Transcribe | Azure Speech in Foundry Tools | Automatic speech recognition service that converts audio to text. |
+| **Machine Learning** | Amazon Polly | Azure Speech in Foundry Tools | Text-to-speech service that synthesizes speech from text. |
 
 ## DevOps & Management
 
