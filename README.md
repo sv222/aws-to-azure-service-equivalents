@@ -132,6 +132,12 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Security** | AWS Secrets Manager | Azure Key Vault Secrets | Secure storage for sensitive data like passwords and keys. |
 | **Security** | AWS Shield | Azure DDoS Protection | Managed protection against distributed denial-of-service (DDoS) attacks. |
 | **Security** | AWS Security Hub | Microsoft Defender for Cloud | Unified security management and threat protection. |
+| **Security** | Amazon GuardDuty | Microsoft Defender for Cloud | Threat detection for cloud accounts and workloads; Defender for Cloud also provides security posture management. |
+| **Security** | Amazon Inspector | Microsoft Defender Vulnerability Management | Continuous vulnerability discovery, assessment, and risk-based prioritization. |
+| **Security** | Amazon Macie | Microsoft Purview | Discovers and classifies sensitive data; Purview covers a wider data estate than Macie's Amazon S3 scope. |
+| **Security** | AWS Certificate Manager | Azure Key Vault certificates | Stores and manages X.509 certificates with lifetime alerts; public TLS certificates come from partner certificate authorities. |
+| **Security** | AWS CloudHSM | Azure Cloud HSM | Single-tenant, FIPS 140-3 Level 3 validated hardware security modules that customers administer. |
+| **Security** | Amazon Security Lake | Microsoft Sentinel data lake | Security data lake that centralizes security telemetry in an open format for analytics. |
 
 ## Monitoring & Logging
 
