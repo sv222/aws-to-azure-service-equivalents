@@ -56,7 +56,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Storage** | Amazon S3 Glacier | Azure Archive access tier (Blob Storage) | Cold storage for infrequently accessed data. |
 | **Storage** | AWS Storage Gateway | Azure File Sync / Azure Data Box Gateway | Hybrid cloud storage (StorSimple 8000 series reached end of support on December 31, 2022; Microsoft recommends Azure File Sync). |
 | **Storage** | Amazon FSx | Azure Files | Managed file storage with SMB and NFS protocols. |
-| **Storage** | Snowball Edge | Azure Data Box | Physical devices for large-scale data transfer. |
+| **Storage** | Snowball Edge | Azure Data Box | Physical devices for large-scale data transfer. Closed to new customers on November 7, 2025. |
 
 ## Databases
 
