@@ -174,6 +174,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Analytics** | Amazon MSK | Azure Event Hubs for Apache Kafka | Managed Apache Kafka-compatible streaming through an Event Hubs Kafka endpoint, without running Kafka brokers. |
 | **Analytics** | Amazon Data Firehose | Azure Event Hubs Capture | Continuously delivers streaming data to Blob Storage or Data Lake Storage; a feature of Azure Event Hubs. |
 | **Analytics** | Amazon Managed Service for Apache Flink | Azure Stream Analytics | Real-time stream processing with a SQL-based query language; Flink applications written against the DataStream API need rewriting. |
+| **Analytics** | Amazon QuickSight | Microsoft Power BI | Business intelligence dashboards, semantic modeling, and embedded analytics. |
 
 ## Machine Learning
 
