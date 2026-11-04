@@ -151,7 +151,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **Security** | Amazon Macie | Microsoft Purview | Discovers and classifies sensitive data; Purview covers a wider data estate than Macie's Amazon S3 scope. |
 | **Security** | AWS Certificate Manager | Azure Key Vault certificates | Stores and manages X.509 certificates; integrated DigiCert and GlobalSign CAs support auto-renewal and expiry notifications. |
 | **Security** | AWS CloudHSM | Azure Cloud HSM | Single-tenant, FIPS 140-3 Level 3 validated hardware security modules that customers administer. |
-| **Security** | Amazon Security Lake | Microsoft Sentinel data lake | Security data lake that centralizes security telemetry in an open format for analytics. |
+| **Security** | Amazon Security Lake | Microsoft Sentinel data lake | Security data lake that centralizes security telemetry in open Parquet-based formats for analytics. |
 
 ## Monitoring & Logging
 
