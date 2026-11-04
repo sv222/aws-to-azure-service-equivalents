@@ -128,7 +128,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
-| **Identity & Access** | IAM Role | Managed Identity | Provides secure access to resources without hardcoding credentials. |
+| **Identity & Access** | IAM Role | Managed Identity | Entra identity for Azure resources that gets tokens without stored credentials. |
 | **Identity & Access** | IAM Policy | Azure RBAC role definitions | Define permissions for Azure resources (role assignments grant them to users and identities). |
 | **Identity & Access** | AWS Organizations | Azure Management Groups | Centralized management of multiple accounts or subscriptions. |
 | **Identity & Access** | SAML Federation | Microsoft Entra ID federation | Single sign-on using external identity providers. |
