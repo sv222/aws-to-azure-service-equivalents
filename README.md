@@ -142,7 +142,7 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 
 | **Category** | **AWS Service/Entity** | **Azure Equivalent** | **Description** |
 |---|---|---|---|
-| **Developer Tools** | AWS Cloud9 | GitHub Codespaces / VS Code for the Web | Cloud-based integrated development environments (IDEs). |
+| **Developer Tools** | AWS Cloud9 | GitHub Codespaces / VS Code for the Web | Cloud-based integrated development environments (IDEs). AWS Cloud9 closed to new customers on July 25, 2024; existing customers can continue to use it. |
 
 ## Migration
 
