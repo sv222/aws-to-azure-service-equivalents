@@ -194,6 +194,9 @@ Mappings are approximate. The closest Azure equivalent often differs in features
 | **DevOps & Management** | AWS CodePipeline | Azure DevOps Pipelines / GitHub Actions | Continuous integration and delivery (CI/CD) pipelines. |
 | **DevOps & Management** | AWS CloudFormation | ARM Templates / Bicep | Infrastructure-as-Code (IaC) for managing cloud resources. |
 | **DevOps & Management** | AWS Systems Manager Parameter Store | Azure App Configuration | Centralized storage of configuration parameters (secrets belong in Azure Key Vault). |
+| **DevOps & Management** | AWS CodeBuild | Azure Pipelines | Managed build service that compiles code, runs tests, and produces artifacts. |
+| **DevOps & Management** | AWS CodeCommit | Azure Repos | Hosted Git repositories with pull requests and code review. |
+| **DevOps & Management** | AWS CodeArtifact | Azure Artifacts | Managed package feeds that store and share packages for npm, NuGet, Maven, Python, and other package types. |
 
 ## Developer Tools
 
